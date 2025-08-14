@@ -1,7 +1,7 @@
 """
 Natural Language Processing Model Implementation
 
-Paper: https://arxiv.org/abs/1301.3781
+Paper: https://arxiv.org/abs/1706.03762
 Notes: https://github.com/hkproj/transformer-from-scratch-notes/tree/main
 
 Implementation by: Hafiz Shakeel Ahmad Awan
