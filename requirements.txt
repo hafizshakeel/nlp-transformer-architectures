@@ -1,0 +1,8 @@
+torch
+torchmetrics
+tqdm
+spacy
+tokenizers
+datasets
+en_core_web_sm
+numpy
