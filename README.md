@@ -55,3 +55,9 @@ nlp-transformer-architectures/
 ```
 
 Each implementation folder contains its own detailed README with specific information about the model architecture, training procedure, and usage instructions.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+Email: hafizshakeel1997@gmail.com

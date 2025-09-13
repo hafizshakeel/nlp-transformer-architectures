@@ -30,8 +30,3 @@ The implementation focuses on a sequence-to-sequence neural machine translation 
 
 The implementation is designed for machine translation between languages, with English (en) and Italian (it) as the default source and target languages.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-Email: hafizshakeel1997@gmail.com
